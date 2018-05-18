@@ -1,0 +1,4 @@
+"insert into userinfo(uname,upwd,uage,uaddress)
+	values('"+user.getUsername()+"','"+user.getUserpassword()+"'
+	,'"user.getUSerage()+"','"
+	user.getUseradress()+"')";
